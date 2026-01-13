@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "AIZO",
   "base_artist": "King Gnu",
-  "createdAt": "2026-01-12T10:21:22.495956Z",
+  "createdAt": "2026-01-13T17:53:57.948228Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -11,6 +11,14 @@
       "artist": "HoneyWorks feat.柴崎健×柴崎愛蔵(CV.江口拓也・島﨑信長)",
       "has_synced": true,
       "path": "select/01_Samishigariya_feat._Shibasaki_Ken×Shibasaki_Aizo_(CV__Eguchi_Takuya・Shimazaki_No_HoneyWorks_feat.柴崎健×柴崎愛蔵(CV.江口拓也・島﨑信長).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "AIZO",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_AIZO_King_Gnu.lrc"
     },
     {
       "id": "petitlyrics_1",
